@@ -1,0 +1,74 @@
+.section1{
+    background-image: url('https://www.jlevines.com/wp-content/uploads/2018/05/portfolioBG.jpg');
+	background-size: cover;
+  background-position: center;
+    margin-bottom: 0px;
+    text-align: center;
+    color: antiquewhite;
+    margin-top: -7%;
+    
+}
+.container-fluid{
+    text-align: center;
+    background-color: antiquewhite;
+}
+.navbar a{
+    color: antiquewhite!important;
+    
+}
+.navbar h1{
+    color: antiquewhite;
+}
+.skilscolumn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.progress{
+    margin-bottom: 7%;
+}
+.pro{
+    width: 72%;
+    margin-top: 5%;
+}
+.contact{
+    text-align: center;
+    margin-top: 8%;
+}
+footer{
+    text-align: center;
+}
+.btn{
+    color: #fff;
+    background-color: #AE8964!important;
+    border-color: #AE8964!important;
+}
+.opt{
+    /* color: #C8AD7F; */
+    color: #8D4024;
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
+.opti{
+    color: #856D4D;
+   
+}
+.prog1 {
+    background-color: #C8AD7F!important;
+}
+.prog2 {
+    background-color: #7E5835!important;
+}
+.prog4 {
+    background-color: #AE8964!important;
+}
+#header1{
+    transition: 0.2s;
+    background-clip: red;
+}
+.optionportfolio{
+    margin-left: 7%;
+}
+.card3{
+    height: 100%;
+}
